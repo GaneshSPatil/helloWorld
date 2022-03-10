@@ -1,3 +1,3 @@
 # helloWorld
 
-A simple helloWorld repository to used to demonstrate GoCD pipeline.
+A simple helloWorld repository used to demonstrate GoCD pipeline.
